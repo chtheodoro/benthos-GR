@@ -2,6 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/87625028.svg)](https://zenodo.org/badge/latestdoi/87625028)
 ![](https://img.shields.io/badge/BQE-Macroinvertebrates-red.svg)
+![](https://img.shields.io/badge/Dataset-BenthosGR-blue.svg)
 
 ### Benthos-GR
 
