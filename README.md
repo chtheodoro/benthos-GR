@@ -1,4 +1,4 @@
-![case-duilding-caddisfly-300x121](https://user-images.githubusercontent.com/21544603/29336315-0e17f8ba-8216-11e7-988f-47e7ebd82c77.png)
+![benthos](https://user-images.githubusercontent.com/21544603/29383281-8bf1e4cc-82d8-11e7-8862-1f67cf1c0470.jpg)
 
 [![DOI](https://zenodo.org/badge/87625028.svg)](https://zenodo.org/badge/latestdoi/87625028)
 
